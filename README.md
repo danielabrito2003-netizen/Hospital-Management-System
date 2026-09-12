@@ -47,6 +47,12 @@ The solution is organized into different projects and layers:
 - `RegrasNegocio` — Business logic
 - `GereHospital` — Application entry point and interaction with the system
 
+## 📄 Documentation
+
+The complete academic project report, including the class diagram, system functionalities and detailed class descriptions, is available here:
+
+[View the Hospital Management System Project Report](docs/Trab_Pratico_POO_LESI_Fase2_25591.pdf)
+
 ## 📂 Main Entities
 
 The system includes classes representing:
